@@ -1,3 +1,3 @@
 # my-demo
 this is my first git repository
-Author -Suyash kulshresth
+Author -Suyash kulshrestha(SITARAM)
